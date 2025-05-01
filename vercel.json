@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "recipe-app",
+  "buildCommand": "cd recipe-app && npm run build",
+  "installCommand": "cd recipe-app && npm install",
+  "devCommand": "cd recipe-app && npm run dev"
+} 
